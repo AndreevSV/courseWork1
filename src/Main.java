@@ -20,7 +20,7 @@ public class Main {
        employee[0] = employee1;
        employee[1] = employee2;
        employee[2] = employee3;
-       employee[3] = employee4;
+//       employee[3] = employee4;
        employee[4] = employee5;
        employee[5] = employee6;
        employee[6] = employee7;
